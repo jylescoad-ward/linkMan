@@ -1,0 +1,32 @@
+[
+	{
+		"destination": "https://jyles.club",
+		"data": "home",
+		"name": "Homepage"
+	},
+	{
+		"destination": "https://github.com/jylescoad-ward/",
+		"data": "github",
+		"name": "Github"
+	},
+	{
+		"destination": "https://discord.gg/x92bvet",
+		"data": "discord",
+		"name": "Discord Server"
+	},
+	{
+		"destination": "https://steamcommunity.com/id/seed_main",
+		"data": "steam",
+		"name": "Steam"
+	},
+	{
+		"destination": "https://soundcloud.com/seedvevo",
+		"data": "soundcloud",
+		"name": "SoundCloud"
+	},
+	{
+		"destination": "https://twitter.com/seedvevo",
+		"data": "twitter",
+		"name": "Twitter"
+	}
+]
