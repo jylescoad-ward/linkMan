@@ -25,6 +25,11 @@
 		"name": "SoundCloud"
 	},
 	{
+		"destination": "https://twitch.tv/seedvevo",
+		"data": "twitch",
+		"name": "Twitch.tv"
+	},
+	{
 		"destination": "https://twitter.com/seedvevo",
 		"data": "twitter",
 		"name": "Twitter"
