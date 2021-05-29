@@ -10,9 +10,14 @@
 		"name": "Github"
 	},
 	{
-		"destination": "https://discord.gg/x92bvet",
+		"destination": "https://discord.gg/GPjpzRvpSp",
 		"data": "discord",
-		"name": "Discord Server"
+		"name": "Discord"
+	},
+	{
+		"destination": "https://discord.gg/x92bvet",
+		"data": "discord-old",
+		"name": "Discord Server (Old)"
 	},
 	{
 		"destination": "https://steamcommunity.com/id/seed_main",
